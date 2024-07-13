@@ -1,4 +1,4 @@
-## Hi there 👋
+## HI THERE 👋
 # 💫 About Me:
 🔭 I’m currently working on building websites and applications<br>🤝 I’m currently looking for some internships to brush-up my skills<br>🌱 I’m currently learning react, node js, ruby<br>💬 Ask me about my interests in software industry<br>⚡ Fun fact - I am lazy but I play cricket whenever I get free
 
